@@ -1,7 +1,8 @@
 repo_name: skerbis/ICEcoder
 report_id: 9db83dd99142b0c0935b29e53761c385
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T21:10:32+00:00'
+timestamp: '2024-02-29T18:36:45+00:00'
 requested_by: mattpass
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/skerbis/ICEcoder
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/skerbis/ICEcoder
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/skerbis/ICEcoder
   detection_source: Repo Metadata
 - name: MongoDB
   description: The database for giant ideas
@@ -44,6 +48,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/skerbis/ICEcoder/blob/master/lib/database-adminer-480-en.php
   detection_source: lib/database-adminer-480-en.php
   last_updated_by: mattpass
   last_updated_on: 2021-03-03 13:23:48.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/skerbis/ICEcoder/blob/master/assets/css/theme/eclipse.css
   detection_source: assets/css/theme/eclipse.css
   last_updated_by: Matt Pass
   last_updated_on: 2016-03-12 16:18:24.000000000 Z
@@ -66,4 +72,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/skerbis/ICEcoder
   detection_source: Repo Metadata
